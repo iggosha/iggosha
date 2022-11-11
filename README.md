@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iggosha
 - 👀 I’m interested in coding.
 - 🌱 Learning Java.
-- A bit of Pascal, Python.
+- A bit of Pascal, Python, C/C++.
 - Plans: Spring, SQL
