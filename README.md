@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @iggosha
-- 👀 I’m interested in computers.
-- 🌱 I’m currently learning Python and Git.
-- 📫 Can't see me my time is now.
+- 👀 I’m interested in coding.
+- 🌱 Learning Java.
+- A bit of Pascal, Python.
+- Plans: Spring, SQL
