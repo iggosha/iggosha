@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @iggosha
-- Used: Pascal, Python, C/C++.
-- Now: Java.
-- In future: Spring, SQL & PostgreSQL, Hibernate.
+- Past: Pascal, Python, C/C++.
+- Now: Java, SQL & PostgreSQL
+- Future: Spring, Hibernate.
