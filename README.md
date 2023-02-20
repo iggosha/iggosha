@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iggosha <img src="https://komarev.com/ghpvc/?username=iggosha&style=flat-square&color=green"/>
+- 👋 Hi, I’m @iggosha
 - Past: Pascal, Python<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>, C/C++ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/> and some <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="30" height="30"/>&nbsp;
 - Now: Java  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="30" height="30"/>, SQL & PostgreSQL   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30"/>
 - Future: Spring <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="30" height="30"/>, Hibernate
