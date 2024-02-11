@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iggosha
 
-- Current: Java  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="30" height="30"/>, Spring <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="30" height="30"/>
-- Also: Adobe Illustrator <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="30" height="30"/>&nbsp;,  SQL & PostgreSQL   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30"/>
-- Future: Hibernate <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/hibernate.svg" width="30" height="30"/>
+- Current:  Spring Framework <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="30" height="30"/>, Hibernate <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/hibernate.svg" width="30" height="30"/>
+- Also: SQL & PostgreSQL   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30"/>, Java  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="30" height="30"/>,
+- Future: Kafka, Docker
 - Past: Pascal, Python<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>, C/C++ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>, 
 
 <div id="header" align="center">
